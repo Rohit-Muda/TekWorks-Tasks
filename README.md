@@ -31,8 +31,3 @@ The objective of this repository is to:
 - The code is structured for readability and understanding.
 - Future updates or improvements may be pushed as needed.
 
----
-
-Maintained by: *[Your Name]*  
-Program: TekWorks Training  
-Status: Ongoing
